@@ -1,0 +1,296 @@
+{
+    "isWindowCAD": true,
+    "isComposite": false,
+    "appType": "Retail",
+    "pdfBlob": {},
+    "projectJson": {
+        "version": "7.2.0",
+        "createdDate": "2025-09-04T19:49:50.879Z",
+        "modifiedDate": "2025-09-04T19:49:50.879Z",
+        "isUnopened": true,
+        "status": "9a42d0ab-2151-4795-b82b-9010ce0985b8",
+        "statusName": "Requires follow up",
+        "infoProperties": [],
+        "markUpPriceListKey": "b12b752c-265a-4457-a2e7-128dd4d84215",
+        "promotions": [],
+        "includeInstallation": false,
+        "taxKey": "752ba155-3a0b-4b0a-941a-751ea46f69f5",
+        "taxName": "Tax will be calculated based on your location",
+        "taxPercent": 0,
+        "bays": [
+            {
+                "key": "10eb01c8-6f76-4329-81e7-7eb2b9690baf",
+                "infoProperties": [
+                    {
+                        "key": "e940bb2c-09f3-49c1-98b8-41afcbcf2c43",
+                        "name": "Name",
+                        "value": "Liniar Standard Bi-Fold | Open In"
+                    }
+                ],
+                "quantity": 1,
+                "frameColourKeys": [
+                    "8f5f8492-abb5-4fac-98f2-ef2a4fb398db",
+                    "8f5f8492-abb5-4fac-98f2-ef2a4fb398db"
+                ],
+                "frameColours": [
+                    "Frosted Black",
+                    "Frosted Black"
+                ],
+                "frameCollections": [
+                    {
+                        "segmentLength": 3200,
+                        "width": 3200,
+                        "height": 2100,
+                        "frames": [
+                            {
+                                "productKey": "1c5f348e-8d42-4b31-9bce-f4a1d6db5469",
+                                "product": "Liniar Standard Bi-Fold | Open In",
+                                "columnDefinitions": [
+                                    {
+                                        "width": 822.5
+                                    },
+                                    {
+                                        "width": 777.5
+                                    },
+                                    {
+                                        "width": 777.5
+                                    },
+                                    {
+                                        "width": 822.5
+                                    }
+                                ],
+                                "rowDefinitions": [
+                                    {
+                                        "height": 2100
+                                    }
+                                ],
+                                "width": 3200,
+                                "height": 2100,
+                                "edgeStockProfiles": [
+                                    "8f5ca961-291a-4559-87ae-91463f2119ab",
+                                    "8f5ca961-291a-4559-87ae-91463f2119ab",
+                                    "8f5ca961-291a-4559-87ae-91463f2119ab",
+                                    "8f5ca961-291a-4559-87ae-91463f2119ab"
+                                ],
+                                "edgeProfiles": [
+                                    "Liniar Standard Bi-Fold",
+                                    "Liniar Standard Bi-Fold",
+                                    "Liniar Standard Bi-Fold",
+                                    "Liniar Standard Bi-Fold"
+                                ],
+                                "frameStyleKey": "4b79b11e-83bc-43ce-9125-bd3f2f8d670a",
+                                "frameStyle": "4 Pane | 1-3",
+                                "apertures": [
+                                    {
+                                        "productType": "Bifolding_door_sash",
+                                        "productKey": "07b18292-b967-4f48-a64b-dcdfac2f2981",
+                                        "product": "Liniar Standard Bi-Fold | Open In",
+                                        "sashFrames": [
+                                            {
+                                                "columnSpan": 1,
+                                                "edgeStockProfiles": [
+                                                    "1473eb8b-0edd-47cc-b7fd-50aaed2870b5",
+                                                    "1473eb8b-0edd-47cc-b7fd-50aaed2870b5",
+                                                    "1473eb8b-0edd-47cc-b7fd-50aaed2870b5",
+                                                    "1473eb8b-0edd-47cc-b7fd-50aaed2870b5"
+                                                ],
+                                                "edgeProfiles": [
+                                                    "Liniar Standard Bi-Fold",
+                                                    "Liniar Standard Bi-Fold",
+                                                    "Liniar Standard Bi-Fold",
+                                                    "Liniar Standard Bi-Fold"
+                                                ],
+                                                "apertures": [
+                                                    {
+                                                        "productKey": "0256f7d6-fd50-4afb-ad56-0432c5a51b98",
+                                                        "product": "Triple-Pane | 2-Low-E",
+                                                        "glazing": {
+                                                            "spacerBarKey": "38139b8e-c5de-4a56-a5a8-3a1330ebc994",
+                                                            "spacerBar": "Aluminium - Silver"
+                                                        }
+                                                    }
+                                                ],
+                                                "hangingKey": "a10f8b3c-838e-4919-ba4a-7278242eceb1",
+                                                "hanging": "Left",
+                                                "hangingType": "Left",
+                                                "hardware": [
+                                                    {
+                                                        "type": "Door_handle",
+                                                        "styleKey": "85fd1934-fbbf-4318-9514-25632f5ad5d6",
+                                                        "colourKey": "e29d27f6-7df6-4eac-9682-723bca009305",
+                                                        "style": "Eronomic Lever",
+                                                        "colour": "Satin stainless steel",
+                                                        "side": "Both_sides"
+                                                    },
+                                                    {
+                                                        "type": "Cylinder",
+                                                        "styleKey": "9f77eb6f-a116-4d14-a948-5a4ac3613ae5",
+                                                        "colourKey": "c566647a-ff83-4a8d-9213-7c51e312cf57",
+                                                        "style": "Standard",
+                                                        "colour": "Stainless steel",
+                                                        "handleIndex": 0
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "column": 1,
+                                                "columnSpan": 1,
+                                                "edgeStockProfiles": [
+                                                    "1473eb8b-0edd-47cc-b7fd-50aaed2870b5",
+                                                    "1473eb8b-0edd-47cc-b7fd-50aaed2870b5",
+                                                    "1473eb8b-0edd-47cc-b7fd-50aaed2870b5",
+                                                    "1473eb8b-0edd-47cc-b7fd-50aaed2870b5"
+                                                ],
+                                                "edgeProfiles": [
+                                                    "Liniar Standard Bi-Fold",
+                                                    "Liniar Standard Bi-Fold",
+                                                    "Liniar Standard Bi-Fold",
+                                                    "Liniar Standard Bi-Fold"
+                                                ],
+                                                "apertures": [
+                                                    {
+                                                        "column": 1,
+                                                        "productKey": "0256f7d6-fd50-4afb-ad56-0432c5a51b98",
+                                                        "product": "Triple-Pane | 2-Low-E",
+                                                        "glazing": {
+                                                            "spacerBarKey": "38139b8e-c5de-4a56-a5a8-3a1330ebc994",
+                                                            "spacerBar": "Aluminium - Silver"
+                                                        }
+                                                    }
+                                                ],
+                                                "hangingKey": "a10f8b3c-838e-4919-ba4a-7278242eceb1",
+                                                "hanging": "Left",
+                                                "hangingType": "Left",
+                                                "hardware": [
+                                                    {
+                                                        "type": "Door_handle",
+                                                        "styleKey": "85fd1934-fbbf-4318-9514-25632f5ad5d6",
+                                                        "colourKey": "e29d27f6-7df6-4eac-9682-723bca009305",
+                                                        "style": "Eronomic Lever",
+                                                        "colour": "Satin stainless steel",
+                                                        "side": "Both_sides"
+                                                    },
+                                                    {
+                                                        "type": "Cylinder",
+                                                        "styleKey": "9f77eb6f-a116-4d14-a948-5a4ac3613ae5",
+                                                        "colourKey": "c566647a-ff83-4a8d-9213-7c51e312cf57",
+                                                        "style": "Standard",
+                                                        "colour": "Stainless steel",
+                                                        "handleIndex": 0
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "column": 2,
+                                                "columnSpan": 1,
+                                                "edgeStockProfiles": [
+                                                    "1473eb8b-0edd-47cc-b7fd-50aaed2870b5",
+                                                    "1473eb8b-0edd-47cc-b7fd-50aaed2870b5",
+                                                    "1473eb8b-0edd-47cc-b7fd-50aaed2870b5",
+                                                    "1473eb8b-0edd-47cc-b7fd-50aaed2870b5"
+                                                ],
+                                                "edgeProfiles": [
+                                                    "Liniar Standard Bi-Fold",
+                                                    "Liniar Standard Bi-Fold",
+                                                    "Liniar Standard Bi-Fold",
+                                                    "Liniar Standard Bi-Fold"
+                                                ],
+                                                "apertures": [
+                                                    {
+                                                        "column": 2,
+                                                        "productKey": "0256f7d6-fd50-4afb-ad56-0432c5a51b98",
+                                                        "product": "Triple-Pane | 2-Low-E",
+                                                        "glazing": {
+                                                            "spacerBarKey": "38139b8e-c5de-4a56-a5a8-3a1330ebc994",
+                                                            "spacerBar": "Aluminium - Silver"
+                                                        }
+                                                    }
+                                                ],
+                                                "hangingKey": "a10f8b3c-838e-4919-ba4a-7278242eceb1",
+                                                "hanging": "Left",
+                                                "hangingType": "Left"
+                                            },
+                                            {
+                                                "column": 3,
+                                                "columnSpan": 1,
+                                                "edgeStockProfiles": [
+                                                    "1473eb8b-0edd-47cc-b7fd-50aaed2870b5",
+                                                    "1473eb8b-0edd-47cc-b7fd-50aaed2870b5",
+                                                    "1473eb8b-0edd-47cc-b7fd-50aaed2870b5",
+                                                    "1473eb8b-0edd-47cc-b7fd-50aaed2870b5"
+                                                ],
+                                                "edgeProfiles": [
+                                                    "Liniar Standard Bi-Fold",
+                                                    "Liniar Standard Bi-Fold",
+                                                    "Liniar Standard Bi-Fold",
+                                                    "Liniar Standard Bi-Fold"
+                                                ],
+                                                "apertures": [
+                                                    {
+                                                        "column": 3,
+                                                        "productKey": "0256f7d6-fd50-4afb-ad56-0432c5a51b98",
+                                                        "product": "Triple-Pane | 2-Low-E",
+                                                        "glazing": {
+                                                            "spacerBarKey": "38139b8e-c5de-4a56-a5a8-3a1330ebc994",
+                                                            "spacerBar": "Aluminium - Silver"
+                                                        }
+                                                    }
+                                                ],
+                                                "hangingKey": "a10f8b3c-838e-4919-ba4a-7278242eceb1",
+                                                "hanging": "Left",
+                                                "hangingType": "Left",
+                                                "hardware": [
+                                                    {
+                                                        "type": "Door_handle",
+                                                        "styleKey": "85fd1934-fbbf-4318-9514-25632f5ad5d6",
+                                                        "colourKey": "e29d27f6-7df6-4eac-9682-723bca009305",
+                                                        "style": "Eronomic Lever",
+                                                        "colour": "Satin stainless steel",
+                                                        "side": "Inside"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "price": 800,
+                "images": [
+                    {
+                        "isInternal": false,
+                        "bayBoundsMin": [
+                            105.64482805489394,
+                            204.41997621700796
+                        ],
+                        "bayBoundsMax": [
+                            593.6093264526482,
+                            537.8341782905343
+                        ]
+                    }
+                ]
+            }
+        ],
+        "price": 800
+    },
+    "userAgent": {
+        "platform": "macOS",
+        "brands": [
+            {
+                "brand": "Not;A=Brand",
+                "version": "99"
+            },
+            {
+                "brand": "Google Chrome",
+                "version": "139"
+            },
+            {
+                "brand": "Chromium",
+                "version": "139"
+            }
+        ]
+    }
+}
+
